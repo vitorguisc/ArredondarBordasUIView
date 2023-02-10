@@ -6,6 +6,5 @@ Neste projeto podemos:
 
 💬 Arredondar UIView
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg](https://user-images.githubusercontent.com/103642861/218142070-ef193c83-f94a-44d3-979a-33ee165e47f6.jpeg)"  width="1080" height="1920"/> 
 
-
+![Untitled design](https://user-images.githubusercontent.com/103642861/218143378-1d3586bf-89c2-45d2-bd3e-e456c3d2aebd.png)
